@@ -9,7 +9,7 @@ Lahore, Pakistan
 <h3>🎬 <em>Solving problems I did not create.</em></h3>
 <sub>Somebody has to. 🫡</sub>
 
-[LinkedIn](https://www.linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](mailto:noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](https://mail.google.com/mail/?view=cm&fs=1&to=noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
 
 🟢 **Available for opportunities worldwide**
 
@@ -120,12 +120,12 @@ I build scalable, resilient backends that keep real businesses running and deliv
 - 🌱 Learning deeper backend engineering
 - 👯 Looking to collaborate on AI agent, automation and backend projects
 - 💬 Ask me about FastAPI, Laravel, n8n, RAG and agents
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nouman-khalid01) or [email](mailto:noumankhalid873@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nouman-khalid01) or [email](https://mail.google.com/mail/?view=cm&fs=1&to=noumankhalid873@gmail.com)
 <!-- - 😄 Pronouns: add yours here -->
 <!-- - ⚡ Fun fact: add yours here -->
 
 <br>
 
 <div align="center">
-<sub>Let's talk: <a href="mailto:noumankhalid873@gmail.com">noumankhalid873@gmail.com</a></sub>
+<sub>Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noumankhalid873@gmail.com">noumankhalid873@gmail.com</a></sub>
 </div>
