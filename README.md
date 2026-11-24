@@ -24,36 +24,41 @@ I build scalable, resilient backends that keep real businesses running and deliv
 ## My Stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++" title="C++">
 </p>
 
 <p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" title="Laravel">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
 
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" title="MySQL">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firestore" title="Firestore">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40" height="40" alt="Neo4j" title="Neo4j">
 </p>
 
 <p>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI and Codex" title="OpenAI and Codex">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" alt="Stripe" title="Stripe">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/twilio/F22F46" width="40" height="40" alt="Twilio" title="Twilio">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="Selenium" title="Selenium">
 </p>
 
-<sub>Also: OpenAI · Stripe · Twilio · Selenium · Codex</sub>
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" title="GitHub">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="40" height="40" alt="Bitbucket" title="Bitbucket">
+</p>
 
 <br>
 
@@ -124,5 +129,5 @@ I build scalable, resilient backends that keep real businesses running and deliv
 <br>
 
 <div align="center">
-<sub>Got a problem you didn't create? Let's talk backend and AI engineering.</sub>
+<sub>Let's talk: <a href="mailto:noumankhalid873@gmail.com">noumankhalid873@gmail.com</a></sub>
 </div>
