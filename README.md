@@ -6,15 +6,36 @@
 
 Lahore, Pakistan
 
-*Solving problems I did not create.*
+<h3>🎬 <em>Solving problems I did not create.</em></h3>
+<sub>Somebody has to. 🫡</sub>
 
-[LinkedIn](linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](mailto:noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](mailto:noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
+
+🟢 **Available for opportunities worldwide**
 
 </div>
 
 <br>
 
-I build backends that run real businesses: payments, document verification, automation and AI agents. I work mainly in Python and JavaScript, with Laravel when a project calls for it, and I care about systems that are fast, resilient and easy to maintain.
+I build scalable, resilient backends that keep real businesses running and deliver real value. System design is my favourite part of the job, and I'm always hunting for a better solution. Still learning, and getting 1% better every day. 📈
+
+<br>
+
+## Stack
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,cpp,nodejs,fastapi,laravel,react,tailwind,postgres,mysql,mongodb,firebase,neo4j,git,github,bitbucket&theme=dark&perline=8">
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,js,cpp,nodejs,fastapi,laravel,react,tailwind,postgres,mysql,mongodb,firebase,neo4j,git,github,bitbucket&theme=light&perline=8">
+  </picture>
+</p>
+
+<p>
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+</p>
+
+<sub>Also: OpenAI · Stripe · Twilio · Selenium · Codex</sub>
 
 <br>
 
@@ -36,7 +57,7 @@ I build backends that run real businesses: payments, document verification, auto
 - 👯 Looking to collaborate on AI agent, automation and backend projects
 - 🤔 Looking for help with system design at scale
 - 💬 Ask me about FastAPI, Laravel, n8n, RAG and agents
-- 📫 Reach me on [LinkedIn](linkedin.com/in/nouman-khalid01) or [email](mailto:noumankhalid873@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nouman-khalid01) or [email](mailto:noumankhalid873@gmail.com)
 <!-- - 😄 Pronouns: add yours here -->
 <!-- - ⚡ Fun fact: add yours here -->
 
@@ -44,33 +65,42 @@ I build backends that run real businesses: payments, document verification, auto
 
 ## Selected work
 
-**[KairaOS](https://kairaos-poc.vercel.app/)**: an AI team member that handles bookings, lead generation and customer questions across WhatsApp, Instagram, phone calls and web chat.
-<sub>React · Postgres · n8n · OpenAI · Twilio · RetellAI · Stripe</sub>
-
-**PCOCAR.com backend**: digitised a manual vehicle-booking operation. Stripe payments, OpenAI-powered document extraction and DVLA driver verification. The mobile app is live on the App Store and Play Store in the UK.
-<sub>Laravel · MySQL · OpenAI · Stripe · FCM · Twilio</sub>
-
-**RPA reporting system**: automated data extraction and daily CSV reports for a USPTO official, using parallel processing and async database work.
-<sub>Python · Selenium · Firestore · Cron</sub>
-
-**Photofia backend**: a scalable API for an AI image-filters app (enhancement, restoration, colourisation).
-<sub>FastAPI · FCM · DigitalOcean · Caddy</sub>
-
-**Business management app**: a desktop app for a local tailor shop with role-based access, reporting and order management.
-<sub>ElectronJS · FastAPI · MongoDB</sub>
-
-<br>
-
-## Stack
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,cpp,fastapi,laravel,react,tailwind,postgres,mysql,mongodb,firebase,neo4j,git,github,bitbucket&theme=dark&perline=15">
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,js,cpp,fastapi,laravel,react,tailwind,postgres,mysql,mongodb,firebase,neo4j,git,github,bitbucket&theme=light&perline=15">
-  </picture>
-</p>
-
-<sub>Also: OpenAI · Stripe · Twilio · Selenium · Claude Code · Codex</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://kairaos-poc.vercel.app/">KairaOS</a></h3>
+      <p>An AI team member that handles bookings, lead generation and customer questions across WhatsApp, Instagram, phone calls and web chat.</p>
+      <p><code>React</code> <code>Postgres</code> <code>n8n</code> <code>OpenAI</code> <code>Twilio</code> <code>RetellAI</code> <code>Stripe</code></p>
+      <p><a href="https://kairaos-poc.vercel.app/">Try the live demo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://pcocar.com/">PCOCAR.com</a></h3>
+      <p>Lead backend engineer on a UK vehicle-booking platform that replaced a manual operation. Owned the hard edge cases: subscription payments, fraud prevention for OCR-verified documents, and state management across the booking flow. Live on the App Store and Play Store in the UK.</p>
+      <p><code>Laravel</code> <code>MySQL</code> <code>OpenAI</code> <code>Stripe</code> <code>FCM</code> <code>Twilio</code> <code>DVLA</code></p>
+      <p><a href="https://pcocar.com/">Visit the platform →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ Photofia</h3>
+      <p>A scalable API for an AI image-filters app (enhancement, restoration, colourisation, portrait effects), powered by open-source models that I deployed and run on DigitalOcean.</p>
+      <p><code>FastAPI</code> <code>FCM</code> <code>DigitalOcean</code> <code>Caddy</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ RPA reporting system</h3>
+      <p>Automated data extraction and daily CSV reports for a USPTO official, using parallel processing and async database work.</p>
+      <p><code>Python</code> <code>Selenium</code> <code>Firestore</code> <code>Cron</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧵 Business management app</h3>
+      <p>A desktop app for a local tailor shop with role-based access, reporting and order management.</p>
+      <p><code>ElectronJS</code> <code>FastAPI</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 <br>
 
