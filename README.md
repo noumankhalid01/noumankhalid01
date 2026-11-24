@@ -2,7 +2,7 @@
 
 # Nouman Khalid
 
-**Backend Engineer** · Python · JavaScript · AI Applications
+**Backend Engineer** · Python · JavaScript · FastAPI · AI Applications
 
 Lahore, Pakistan
 
@@ -44,7 +44,7 @@ I build scalable, resilient backends that keep real businesses running and deliv
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40" height="40" alt="Neo4j" title="Neo4j"></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n"></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" title="Claude Code"></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI" title="OpenAI"></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="OpenAI" title="OpenAI"></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" alt="Stripe" title="Stripe"></td>
     <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="40" height="40" alt="Twilio" title="Twilio"></td>
   </tr>
