@@ -6,8 +6,8 @@
 
 Lahore, Pakistan
 
-<h3>🎬 <em>Solving problems I did not create.</em></h3>
-<sub>Somebody has to. 🫡</sub>
+<h3><em>Solving problems I did not create.</em> Somebody has to. 🫡</h3>
+
 
 [LinkedIn](https://www.linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](https://mail.google.com/mail/?view=cm&fs=1&to=noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
 
