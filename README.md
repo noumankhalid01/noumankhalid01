@@ -8,7 +8,7 @@ Lahore, Pakistan
 
 *Solving problems I did not create.*
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) &nbsp;·&nbsp; [Email](mailto:noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
+[LinkedIn](linkedin.com/in/nouman-khalid01) &nbsp;·&nbsp; [Email](mailto:noumankhalid873@gmail.com) &nbsp;·&nbsp; [Live demo: KairaOS](https://kairaos-poc.vercel.app/)
 
 </div>
 
@@ -36,7 +36,7 @@ I build backends that run real businesses: payments, document verification, auto
 - 👯 Looking to collaborate on AI agent, automation and backend projects
 - 🤔 Looking for help with system design at scale
 - 💬 Ask me about FastAPI, Laravel, n8n, RAG and agents
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or [email](mailto:noumankhalid873@gmail.com)
+- 📫 Reach me on [LinkedIn](linkedin.com/in/nouman-khalid01) or [email](mailto:noumankhalid873@gmail.com)
 <!-- - 😄 Pronouns: add yours here -->
 <!-- - ⚡ Fun fact: add yours here -->
 
