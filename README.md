@@ -2,7 +2,7 @@
 
 # Nouman Khalid
 
-**Backend Engineer** · Python · JavaScript · FastAPI · AI Applications
+**Backend Engineer** · Python · JavaScript · AI Applications
 
 Lahore, Pakistan
 
@@ -23,42 +23,40 @@ I build scalable, resilient backends that keep real businesses running and deliv
 
 ## My Stack
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++" title="C++">
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" title="Laravel">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" title="MySQL">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firestore" title="Firestore">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40" height="40" alt="Neo4j" title="Neo4j">
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI and Codex" title="OpenAI and Codex">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" alt="Stripe" title="Stripe">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/twilio/F22F46" width="40" height="40" alt="Twilio" title="Twilio">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="Selenium" title="Selenium">
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" title="GitHub">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="40" height="40" alt="Bitbucket" title="Bitbucket">
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++" title="C++"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI" title="FastAPI"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" title="Laravel"></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" title="MySQL"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" title="MongoDB"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firestore" title="Firestore"></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40" height="40" alt="Neo4j" title="Neo4j"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" title="Claude Code"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI" title="OpenAI"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" alt="Stripe" title="Stripe"></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="40" height="40" alt="Twilio" title="Twilio"></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="Selenium" title="Selenium"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="40" height="40" alt="DigitalOcean" title="DigitalOcean"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/electron/47848F" width="40" height="40" alt="Electron" title="Electron"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" title="GitHub"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="40" height="40" alt="Bitbucket" title="Bitbucket"></td>
+  </tr>
+</table>
 
 <br>
 
